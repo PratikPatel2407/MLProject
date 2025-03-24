@@ -2,5 +2,10 @@ pandas
 numpy
 seaborn
 tensorflow
-
--e .
+matplotlib
+scikit-learn
+catboost
+xgboost
+dill
+Flask
+#-e .
